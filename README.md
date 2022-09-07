@@ -1,5 +1,7 @@
 # FDNeRF
 
+This is the repository that contains source code for the [FDNeRF Home Page](https://fdnerf.github.io/).
+
 If you find FDNeRF useful for your work please cite:
 ```
 @article{zhang2022fdnerf,
